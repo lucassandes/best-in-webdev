@@ -6,3 +6,6 @@ Some of the best resources I've read in CSS
 
 📚 [CSS Guidelines](https://cssguidelin.es)
 
+💻 [Primer - The design system that powers GitHub](https://github.com/primer/primer)
+
+💻 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
