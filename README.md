@@ -12,4 +12,4 @@ Some of the best resources I've read in CSS
 
 💻 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 
-📚[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+📚 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
