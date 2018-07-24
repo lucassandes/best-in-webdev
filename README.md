@@ -11,3 +11,5 @@ Some of the best resources I've read in CSS
 💻 [Primer - The design system that powers GitHub](https://github.com/primer/primer)
 
 💻 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+
+📚[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
