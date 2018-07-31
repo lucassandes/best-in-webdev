@@ -2,6 +2,10 @@
 Some of the best resources I've read in HTML, CSS and JavaScript. Inspired by [Leonardo's list](https://github.com/lborgav/Best-in-JS)
 
 ## CSS
+📄 [CSS Selectors - Complete Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+
+📄 [CSS Selector Reference - Quick guide ](https://www.w3schools.com/cssref/css_selectors.asp)
+
 📄 [CSS AND SCALABILITY](http://mrmrs.cc/writing/2016/03/24/scalable-css/)
 
 📄 [Font sizing with rem](https://snook.ca/archives/html_and_css/font-size-with-rem)
