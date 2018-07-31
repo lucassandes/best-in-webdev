@@ -21,4 +21,5 @@ Some of the best resources I've read in HTML, CSS and JavaScript
 
 ## Javascript
 📚[The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
+
 📺[You will learn RxJS at ng-europe 2016](https://www.youtube.com/watch?v=uQ1zhJHclvs)
