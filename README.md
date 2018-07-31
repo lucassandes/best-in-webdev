@@ -1,4 +1,4 @@
-# best-in-css
+# Best in Webdev - HTML/CSS and JavaScript
 Some of the best resources I've read in HTML, CSS and JavaScript
 
 ## CSS
