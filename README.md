@@ -29,3 +29,5 @@ Some of the best resources I've read in HTML, CSS and JavaScript. Inspired by [L
 📺 [You will learn RxJS at ng-europe 2016](https://www.youtube.com/watch?v=uQ1zhJHclvs)
 
 📚 [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+📚 [The Vue.js Handbook](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
