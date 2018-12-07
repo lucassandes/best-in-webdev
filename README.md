@@ -32,4 +32,3 @@ Some of the best resources I've read in HTML, CSS and JavaScript. Inspired by [L
 
 📚 [The Vue.js Handbook](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 
-📄 [Micro frontends—a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
